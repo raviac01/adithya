@@ -1,20 +1,14 @@
 {
   "posts": [
   {
-    "userid":1,
-    "password":"common",
-    "name":"Ravi"
+    "id":1,
+    "title":"common"
   },
   {
-    "userid":2,
-    "password":"common",
-    "name":"Sandhya"  
-  },
-  {
-    "userid":3,
-    "password":"common",
-    "name":"Adithya"
-   }
+    "id":2,
+    "title":"common"
+  }
+
 ],
   "profile": {
     "name": "typicode"
