@@ -1,4 +1,5 @@
-[
+{
+  [
   {
     "userid":1,
     "password":"common",
@@ -15,3 +16,4 @@
     "name":"Adithya"
    }
 ]
+}
