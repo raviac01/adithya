@@ -15,5 +15,8 @@
     "password":"common",
     "name":"Adithya"
    }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
 }
