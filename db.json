@@ -1,5 +1,5 @@
 {
-  [
+  "posts": [
   {
     "userid":1,
     "password":"common",
@@ -15,5 +15,8 @@
     "password":"common",
     "name":"Adithya"
    }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
 }
