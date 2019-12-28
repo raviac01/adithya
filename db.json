@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posrts": [
   {
     "id":1,
     "title":"ravi"
@@ -10,7 +10,7 @@
   }
 
 ],
-  "profile": {
+  "psofile": {
     "name": "typicode"
   }
 }
